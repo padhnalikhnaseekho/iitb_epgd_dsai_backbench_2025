@@ -1,0 +1,2 @@
+ISLP(Introduction to statistical learning in Python) book link : http://www.statlearning.com
+LfD(Learning from data) book link : http://www.work.caltech.edu
