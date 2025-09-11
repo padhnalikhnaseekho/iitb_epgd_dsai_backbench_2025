@@ -1,0 +1,5 @@
+MIT Videos - https://www.youtube.com/watch?v=alfdI7S6wCY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+suggested by naveen - https://youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16&si=KjwrxK522AhgWYVJ
+book recommended in pre read out - https://github.com/janishar/mit-deep-learning-book-pdf - chapter 2-5
+additional reference as mentioned in pre read-out - https://webfiles.amrita.edu/2025/02/deep-learning-material-dept-ece-ase-blr-1.pdf - chapter1-4
+
